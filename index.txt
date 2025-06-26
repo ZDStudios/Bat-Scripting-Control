@@ -1,1 +1,1 @@
-shutdown /p
+echo updatd
