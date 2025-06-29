@@ -1,1 +1,2 @@
-shutdown /p
+echo Hello from GitHub
+
