@@ -1,1 +1,1 @@
-echo gg bro
+shutdown /p
