@@ -1,3 +1,1 @@
-Start-Process notepad
-
-
+echo GET HACKED NOOB!!!!!
